@@ -15,26 +15,26 @@ To randomly generate a strong password that meets certain criteria to provide th
 Used javascript to create a series of prompts, confirms, alerts, functions and loops that prompt the user to enter the desired length of the password. Their password must be a minimum of 8 characters and cannot have more than 128 characters. Based on what criteria the user selects a random password will be generated. 
 
 ### What the deployed site looks like
-Main Page
+#### Main Page
 ![Main Page](assets/images/passwordGenerator.png)
 
-How long do you want your password to be?
+#### How long do you want your password to be?
 ![Number of Characters](assets/images/firstPrompt.PNG)
 
-Do you want special characters?
+#### Do you want special characters?
 ![Number of Special Characters](assets/images/specialCharacters.PNG)
 
-Do you want numbers?
+#### Do you want numbers?
 ![Number of Numbers](assets/images/numbers.PNG)
 
-Do you want uppercase letters?
+#### Do you want uppercase letters?
 ![Number of Uppercase Characters](assets/images/uppercase.PNG)
 
-Do you want lowercase letters?
+#### Do you want lowercase letters?
 ![Number of Lowercase Characters](assets/images/lowercase.PNG)
 
-Generated Password
+#### Generated Password
 ![Generated Password](assets/images/generatedPassword.png)
 
-Does not meet criteria page
+#### Does not meet criteria page
 ![Does not meet criteria page](assets/images/doesNotMeetCriteria.PNG)
