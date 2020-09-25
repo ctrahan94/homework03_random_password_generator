@@ -16,4 +16,25 @@ Used javascript to create a series of prompts, confirms, alerts, functions and l
 
 ### What the deployed site looks like
 Main Page
-![mainPage](assets/images/passwordGenerator.png)
+![Main Page](assets/images/passwordGenerator.png)
+
+How long do you want your password to be?
+![Number of Characters](assets/images/firstPrompt.png)
+
+Do you want special characters?
+![Number of Special Characters](assets/images/specialCharacters.png)
+
+Do you want numbers?
+![Number of Numbers](assets/images/numbers.png)
+
+Do you want uppercase letters?
+![Number of Uppercase Characters](assets/images/uppercase.png)
+
+Do you want lowercase letters?
+![Number of Lowercase Characters](assets/images/lowercase.png)
+
+Generated Password
+![Generated Password](assets/images/generatedPassword.png)
+
+Does not meet criteria page
+![Does not meet criteria page](assets/images/doesNotMeetCriteria.png)
