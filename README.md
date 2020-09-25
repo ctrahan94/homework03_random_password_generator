@@ -19,22 +19,22 @@ Main Page
 ![Main Page](assets/images/passwordGenerator.png)
 
 How long do you want your password to be?
-![Number of Characters](assets/images/firstPrompt.png)
+![Number of Characters](assets/images/firstPrompt.PNG)
 
 Do you want special characters?
-![Number of Special Characters](assets/images/specialCharacters.png)
+![Number of Special Characters](assets/images/specialCharacters.PNG)
 
 Do you want numbers?
-![Number of Numbers](assets/images/numbers.png)
+![Number of Numbers](assets/images/numbers.PNG)
 
 Do you want uppercase letters?
-![Number of Uppercase Characters](assets/images/uppercase.png)
+![Number of Uppercase Characters](assets/images/uppercase.PNG)
 
 Do you want lowercase letters?
-![Number of Lowercase Characters](assets/images/lowercase.png)
+![Number of Lowercase Characters](assets/images/lowercase.PNG)
 
 Generated Password
 ![Generated Password](assets/images/generatedPassword.png)
 
 Does not meet criteria page
-![Does not meet criteria page](assets/images/doesNotMeetCriteria.png)
+![Does not meet criteria page](assets/images/doesNotMeetCriteria.PNG)
